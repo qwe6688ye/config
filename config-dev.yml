@@ -1,4 +1,4 @@
-config:
-  info: "config info for dev(master)"
+test:
+  info: "it's just test config info"
 server:
   port: 9009
