@@ -1,2 +1,4 @@
 config:
   info: "config info for dev(master)"
+server:
+  port: 9009
