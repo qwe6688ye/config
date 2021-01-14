@@ -1,0 +1,4 @@
+test:
+  info: "it's just test config info 333333"
+server:
+  port: 9009
