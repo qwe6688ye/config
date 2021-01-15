@@ -1,2 +1,4 @@
 test:
   info: "just asdfoizxcnv"
+server:
+  port: 9010
