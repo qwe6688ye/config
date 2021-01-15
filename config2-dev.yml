@@ -1,4 +1,4 @@
 test:
   info: "just 123123123"
 server:
-  port: 9010
+  port: 9011
